@@ -1,6 +1,6 @@
 ### Oii! eu sou a Kauane Farias
 
-- 🌱 Estudando Desenvolvimento .NET 
+- 🌱 Atualmente estou aprendendo C#; HTML5, CSS3 e JS; React; Asp.NET...
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
