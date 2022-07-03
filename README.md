@@ -23,14 +23,11 @@
   
   <div>
    
-  <a href="https://instagram.com/kaufariax" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/kaufariax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-     <a href="https://www.linkedin.com/in/kauane-farias-a65919222/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/kauane-farias-a65919222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  <a href="https://api.whatsapp.com/send?phone=5511980844655&text=Ol%C3%A1!%20" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511947472059&text=Ol%C3%A1!%20"/></a>   
+  <a href="https://api.whatsapp.com/send?phone=5511980844655&text=Ol%C3%A1!%20" target="_blank" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511947472059&text=Ol%C3%A1!%20"/></a>   
  
   </div>  
     
