@@ -1,7 +1,7 @@
 ### Oii! eu sou a Kauane Farias
 
-- 🌱 Aprimorando o conhecimentos em tecnologias como C#; Asp.NET, SQLServer e React.Js ...
-- 😄 Pronomes: Ela/Dela
+- 🌱 Aprimorando meus conhecimentos em tecnologias como C#; Asp.NET, SQLServer e React.Js ...
+- 😄 Pronomes: Ela/Dela/She
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaufariax&label=Profile%20views&color=0e75b6&style=flat" alt="kaufariax" /> </p>
 
 <div align="center">
