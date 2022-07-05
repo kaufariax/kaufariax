@@ -14,8 +14,7 @@
   <div style="display: inline_block" align="center"><br>
     
  <img align="center" alt="Kauane-C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40"/> 
- <img align="center" alt="Kauane-Ts" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="35" height="35"/>
-  <img align="center" alt="Kauane-.Netcore" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="40" height="40"/> 
+ <img align="center" alt="Kauane-.Netcore" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="40" height="40"/> 
    <img align="center" alt="Kauane-Asp.Net" src="https://softwareasli.com/wp-content/uploads/2019/08/ASP.NET_.png" width="60" height="50"/>
   <img align="center" alt="Kauane-SqlServer" src="https://img.icons8.com/color/480/microsoft-sql-server.png" width="50" height="40"/>
   <img align="center" alt="Kauane-Postman" src="https://user-images.githubusercontent.com/102272830/174455419-6fad00e8-c3d4-4eba-97bf-ba985b235111.png" width="35" height="35"/>
@@ -23,6 +22,8 @@
   <img align="center" alt="Kauane-VS" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"  width="45" height="35" />
   <img align="center" alt="Kauane-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="35" />
   <img align="center" alt="Kauane-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="35" />
+  <img align="center" alt="Kauane-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="35" />
+  <img align="center" alt="Kauane-Ts" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="35" height="35"/>
   <img align="center" alt="Kauane-BootStrap" src="https://user-images.githubusercontent.com/102272830/174455281-2f78d0fd-1454-4928-a568-523273cb3a94.png" width="40" height="45"/>
   <img align="center" alt="Kauane-React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="45" height="35" />
   <img align="center" alt="Kauane-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="65" height="65"/>
