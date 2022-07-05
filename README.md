@@ -5,8 +5,6 @@
 <p>- 😄 Pronomes: Ela/Dela/She</p>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaufariax&label=Profile%20views&color=0e75b6&style=flat" alt="kaufariax" /> </p>
-
 <div align="center">
   <a href="https://github.com/kaufariax">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaufariax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
