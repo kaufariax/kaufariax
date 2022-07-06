@@ -26,6 +26,7 @@
   <img align="center" alt="Kauane-Ts" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="35" height="35"/>
   <img align="center" alt="Kauane-BootStrap" src="https://user-images.githubusercontent.com/102272830/174455281-2f78d0fd-1454-4928-a568-523273cb3a94.png" width="40" height="45"/>
   <img align="center" alt="Kauane-React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="45" height="35" />
+  <img align="center" alt="Kauane-Heroku" height="35" width="45" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Kauane-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="65" height="65"/>
     
 </div>
