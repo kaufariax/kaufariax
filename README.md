@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Kau!!</h1>
 
 <div align="center">
-<p>- 🌱 Sou apaixonada por programação e tecnologia. Me formei com aproveitamento no Ensino Médio e me formei também no Bootcamp da Generation Brasil como Desenvolvedora .NET Fullstack. Tenho como meta me aprofundar mais em Desenvolvimento de Software e ingressar em breve no ensino superior. ❤</p>
+<p>- 🌱 Sou apaixonada por programação e tecnologia. Me formei com aproveitamento no Ensino Médio e me formei também no Bootcamp da Generation Brasil como Desenvolvedora .NET Fullstack.Atualmente trabalho na WeDecode como Desenvolvedora Backend e está sendo incrível, estou aprendendo e evoluindo muito no mundo da programação. Tenho como meta me aprofundar mais em Desenvolvimento de Software e ingressar em breve no ensino superior. ❤</p>
 <p>- 😄 Pronomes: Ela/Dela/She</p>
 </div>
 
