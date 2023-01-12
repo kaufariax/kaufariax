@@ -1,14 +1,8 @@
 <h1 align="center">Oi, eu sou a Kau!!</h1>
 
 <div align="center">
-<p>- 🌱 Sou apaixonada por programação e tecnologia. Me formei com aproveitamento no Ensino Médio e me formei também no Bootcamp da Generation Brasil como Desenvolvedora .NET Fullstack. Atualmente trabalho na WeDecode como Desenvolvedora Backend e está sendo incrível, estou aprendendo e evoluindo muito no mundo da programação. Tenho como meta me aprofundar mais em Desenvolvimento de Software e ingressar em breve no ensino superior. ❤</p>
+<p>- 🌱 Sou uma pessoa persistente e orientada aos detalhes, apaixonada por programação e a cada dia mais animada para estudar assuntos voltados à tecnologia. Me formei com aproveitamento no Ensino Médio e me certifiquei no Bootcamp da Generation Brasil como Desenvolvedora .NET Fullstack com preferência em backend. Tenho como meta me tornar especialista em Desenvolvimento de Software e ingressar em breve no ensino superior. ❤</p>
 <p>- 😄 Pronomes: Ela/Dela/She</p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/kaufariax">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaufariax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaufariax&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block" align="center"><br>
