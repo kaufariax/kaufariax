@@ -1,4 +1,4 @@
-<img align="right" height="700em" src="https://raw.githubusercontent.com/gist/kaufariax/1cd47183518dc32f0a3c23c911a585d0/raw/38eed9e4adfcbe0af10acf7c4f00873a30bdb39c/githubcard.svg"/>
+<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/kaufariax/1cd47183518dc32f0a3c23c911a585d0/raw/38eed9e4adfcbe0af10acf7c4f00873a30bdb39c/githubcard.svg"/>
 <h1 align="center">Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Kau 😉 </h1>
 
 <div align="left">
