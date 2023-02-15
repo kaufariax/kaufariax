@@ -1,4 +1,6 @@
 <img align="right" height="600em" src="https://raw.githubusercontent.com/gist/kaufariax/1cd47183518dc32f0a3c23c911a585d0/raw/23d8e6b2067fec0fcd57d289078c72c3219acc67/githubcard.svg"/>
+
+<div align="left">
 <h1 align="center">Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Kau 😉 </h1>
 
 <div align="left">
@@ -37,7 +39,8 @@
   <a href="https://www.linkedin.com/in/kauane-farias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
  
-  </div>  
+  </div>
+  </div>
     
     
     
