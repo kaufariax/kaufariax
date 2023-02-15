@@ -1,33 +1,36 @@
-<h1 align="center">Oi, eu sou a Kau!!</h1>
+<img align="right" height="700em" src="https://raw.githubusercontent.com/gist/kaufariax/1cd47183518dc32f0a3c23c911a585d0/raw/38eed9e4adfcbe0af10acf7c4f00873a30bdb39c/githubcard.svg"/>
+<h1 align="center">Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Kau 😉 </h1>
 
-<div align="center">
-<p>- 🌱 Sou uma pessoa persistente e orientada aos detalhes, apaixonada por programação e a cada dia mais animada para estudar assuntos voltados à tecnologia. Me formei com aproveitamento no Ensino Médio e me certifiquei no Bootcamp da Generation Brasil como Desenvolvedora .NET Fullstack com preferência em backend. Tenho como meta me tornar especialista em Desenvolvimento de Software e ingressar em breve no ensino superior. ❤</p>
-<p>- 😄 Pronomes: Ela/Dela/She</p>
+<div align="left">
+<p>- 🌱 Sou uma pessoa proativa e orientada aos detalhes, apaixonada por educação financeira e programação e a cada dia me sinto mais animada para estudar assuntos voltados à tecnologia. </p>
+ <p>-⚡ Me formei no Bootcamp da Generation Brasil como Desenvolvedora .NET Fullstack tendo preferência em backend.</p>
+ <p> -👨‍💻 Tenho experiência profissional com desenvolvimento backend em C# e .NET em aplicações web utilizando metodologias ágeis.</p>
+ <p> -🔥  Minha meta profissional é me tornar especialista em Desenvolvimento de Software e ingressar em breve no ensino superior. ❤</p>
 </div>
   
-  <div style="display: inline_block" align="center"><br>
+  <div style="display: inline_block" align="center"/>
+  
+  ## 🛠 &nbsp;Tech Stack
     
- <img align="center" alt="Kauane-C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40"/> 
- <img align="center" alt="Kauane-.Netcore" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="40" height="40"/> 
-   <img align="center" alt="Kauane-Asp.Net" src="https://softwareasli.com/wp-content/uploads/2019/08/ASP.NET_.png" width="60" height="50"/>
-  <img align="center" alt="Kauane-SqlServer" src="https://img.icons8.com/color/480/microsoft-sql-server.png" width="50" height="40"/>
-  <img align="center" alt="Kauane-Postman" src="https://user-images.githubusercontent.com/102272830/174455419-6fad00e8-c3d4-4eba-97bf-ba985b235111.png" width="35" height="35"/>
-  <img align="center" alt="Kauane-VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="43" height="33" />
-  <img align="center" alt="Kauane-VS" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"  width="45" height="35" />
-  <img align="center" alt="Kauane-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="35" />
-  <img align="center" alt="Kauane-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="35" />
-  <img align="center" alt="Kauane-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="35" />
-  <img align="center" alt="Kauane-Ts" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="35" height="35"/>
-  <img align="center" alt="Kauane-BootStrap" src="https://user-images.githubusercontent.com/102272830/174455281-2f78d0fd-1454-4928-a568-523273cb3a94.png" width="40" height="45"/>
-  <img align="center" alt="Kauane-React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="45" height="35" />
-  <img align="center" alt="Kauane-Heroku" height="35" width="45" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor" />
-  <img align="center" alt="Kauane-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=45px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=45px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width=45px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=45px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=45px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=45px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=45px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width=45px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width=50px/>
+
     
 </div>
-  
-  ##
-  
+
   <div align="center">
+  
+  <br/>
+  
+  ## 📱 Contacts
    
   <a href="https://instagram.com/kaufariax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5511980844655&text=Ol%C3%A1!%20" target="_blank" alt="WhatsApp">
