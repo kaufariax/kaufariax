@@ -1,7 +1,7 @@
 <img align="right" height="580em" src="https://raw.githubusercontent.com/gist/kaufariax/1cd47183518dc32f0a3c23c911a585d0/raw/23d8e6b2067fec0fcd57d289078c72c3219acc67/githubcard.svg"/>
 
 <div align="left">
-<h1 align="center">Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Kau 😉 </h1>
+<h1 align="center">Oii, Eu sou a Kau 😉 </h1>
 
 <div align="left">
 <p>- 🌱 Sou uma pessoa proativa e orientada aos detalhes, apaixonada por educação financeira e programação e a cada dia me sinto mais animada para estudar assuntos voltados à tecnologia. </p>
@@ -10,7 +10,7 @@
  <p> -🔥  Minha meta profissional é me tornar especialista em Desenvolvimento de Software. ❤</p>
 </div>
   
-  <div style="display: inline_block" align="center"/>
+<div style="display: inline_block" align="center">
   
   ## 🛠 &nbsp;Tech Stack
     
@@ -25,7 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=50px/>
 
-    
 </div>
 
   <div align="center">
