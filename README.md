@@ -6,7 +6,7 @@
 <div align="left">
 <p>- 🌱 Sou uma pessoa proativa e orientada aos detalhes, apaixonada por educação financeira e programação e a cada dia me sinto mais animada para estudar assuntos voltados à tecnologia. </p>
  <p>-⚡ Me formei no Bootcamp da Generation Brasil como Desenvolvedora .NET Fullstack tendo preferência em backend.</p>
- <p> -👨‍💻 Tenho experiência profissional com desenvolvimento backend em C# e .NET em aplicações web utilizando metodologias ágeis.</p>
+ <p> -👨‍💻 Atualmente trabalho como Analista de Suporte de Software na Ingram Micro Brasil dando suporte em problemas e soluções das aplicações, além de ter experiência profissional anterior com desenvolvimento backend em C# e .NET em aplicações web utilizando metodologias ágeis.</p>
  <p> -🔥  Minha meta profissional é me tornar especialista em Desenvolvimento de Software. ❤</p>
 </div>
   
